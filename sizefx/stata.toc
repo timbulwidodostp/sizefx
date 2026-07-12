@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p sizefx Calculate Cohen's d, Hedges' g, and the effect size (ES) correlation (r) Use sizefx With STATA 19
